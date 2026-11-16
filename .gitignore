@@ -1,0 +1,5 @@
+.env
+storage/database/*.sqlite
+storage/logs/*.log
+storage/cache/*.json
+.DS_Store
